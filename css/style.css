@@ -49,13 +49,13 @@ p{
 
 a{
   font-size: 16px;
-  color: #C12258; /*#C12258, #B21F50, or #B92751*/
+  color: color: #B21F50;; /*#C12258, #B21F50, or #B92751*/
   text-decoration-line: underline;
   text-decoration-style: wavy; 
 }
 
 table{
-    border: 2px solid #000000;
+  border: 2px solid #000000;
   margin: auto;
   border-radius: 10px;  
 }
@@ -84,9 +84,9 @@ tbody tr:nth-child(even) {
   background-color: #D1D1D1;
 }
 
-tbody tr:nth-child(odd) {
+/* tbody tr:nth-child(odd) {
   background-color: rgba(126,8,48,0);
-}
+} */
 
 tbody tr:hover{ 
   background-color: rgba(126,8,48,0.25);
