@@ -49,7 +49,7 @@ p{
 
 a{
   font-size: 16px;
-  color: color: #B92751; /*#C12258, #B21F50, or #B92751*/
+  color: color: #B21F50;/*#C12258, #B21F50, or #B92751*/
   text-decoration-line: underline;
   text-decoration-style: wavy; 
 }
@@ -89,7 +89,7 @@ tbody tr:nth-child(even) {
 } */
 
 tbody tr:hover{ 
-  background-color: rgba(126,8,48,0.25);
+  background-color: rgba(126,8,32,.25);
 }
 
 *:focus{
